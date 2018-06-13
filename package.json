@@ -7,10 +7,15 @@
   },
   "description": "a collection of some pack tool",
   "main": "index.js",
-  "bin": "./bin/needpack",
+  "bin": "./bin/needpack.js",
   "scripts": {
     "test": "echo 123"
   },
   "author": "zhangran",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^2.4.1",
+    "commander": "^2.15.1",
+    "inquirer": "^5.2.0"
+  }
 }

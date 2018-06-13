@@ -1,3 +1,3 @@
 #!/usr/bin/env node
+require('../commander/ask.js')
 
-console.log(111)
