@@ -1,5 +1,3 @@
-module.exports = {
-    run: function(template) {
-        
-    }
-};
+module.exports = function(template){
+    console.log(111, template)
+}

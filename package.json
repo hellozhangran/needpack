@@ -7,7 +7,9 @@
   },
   "description": "a collection of some pack tool",
   "main": "index.js",
-  "bin": "./bin/needpack.js",
+  "bin": {
+    "needpack": "./bin/needpack"
+  },
   "scripts": {
     "test": "echo 123"
   },
