@@ -15,6 +15,18 @@
 
 ## 进度：
 
+
+
+
 ## TODO: 
 
-找一个简单的当demo，最好与vue无关的
+simple          使用并解释webpack的各feature，重点在于了解webpack本身
+vue-single      vue的单页面应用，包括vuex,vue-router等，主要面向业务开发
+vue-multiplay   vue的多页面应用，主要面向业务开发
+rollup          基于es6+rollup的打包方案，主要用于写js库
+ts              基于ts+webpack的打包方案，主要用于写js库
+
+
+
+
+
